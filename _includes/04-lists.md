@@ -1,11 +1,11 @@
 -Ice cream
 
-*Vanilla
-*Chocolate
-*Strawberry 
-*Butterscotch 
+Vanilla
+Chocolate
+Strawberry 
+Butterscotch 
 
 -Food
-*car 
-*bus 
-*truck
+car 
+bus 
+truck
