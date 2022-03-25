@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+Ice cream
+
+Vanilla
+Chocolate
+Strawberry 
+Butterscotch 
+
+Food
+car 
+bus 
+truck
